@@ -15,8 +15,8 @@ APPLICATION ARCHITECTURE
 The three-tier architecture is a software design pattern used in the web applications development.
 
 It consists of 3 layers:
-- presentation layer (user interface)
-- application logic layer (business logic)
-- the data layer (interface to the data stored in a database)
+- Presentation layer (user interface)
+- Application logic layer (business logic)
+- Data layer (interface to the data stored in a database)
 
 ![3-tier architecture](<3 tier.png>)
