@@ -6,6 +6,7 @@ After this bootcamp I want to improve my hands-on experience and to deeply under
 WEB APPLICATION
 
 A web application is software that runs in your web browser.
+
 ![Web application](app.png)
 
 
@@ -17,4 +18,5 @@ It consists of 3 layers:
 - presentation layer (user interface)
 - application logic layer (business logic)
 - the data layer (interface to the data stored in a database)
+
 ![3-tier architecture](<3 tier.png>)
