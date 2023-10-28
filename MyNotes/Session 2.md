@@ -6,4 +6,6 @@ A web application is software that runs in your web browser.
 
 ![Web application](<web app.jpg>)
 
+![Alt text](app.png)
+
 3. 
